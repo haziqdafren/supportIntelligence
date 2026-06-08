@@ -1,0 +1,11 @@
+category,total_tickets,repetition_score,avg_complexity_score,escalation_rate,sla_breach_rate,automation_score,recommended_action,business_reason
+Security Concern,11982,99.92,5.45,50.78,50.18,60.11,Escalation playbook with human review,"High sensitivity, routing can be automated"
+Performance Issue,12013,99.92,5.52,50.18,50.67,51.9,Automated diagnostics with escalation trigger,Can be triaged before escalating to tech team
+Feature Request,12052,99.92,5.48,50.09,49.63,49.83,Product triage intake form,"Non-urgent, suitable for structured routing to product team"
+Bug Report,11913,99.92,5.48,50.6,50.15,44.54,Automated bug triage and ticket tagging,Repeated descriptions matchable to known issues
+Subscription Cancellation,12057,99.92,5.5,49.86,49.32,41.26,Self-service cancellation and retention workflow,Predictable flow suitable for guided self-service
+Refund Request,11916,99.92,5.48,50.33,50.12,41.18,Automated refund eligibility checker,Rule-based decisions suitable for automation
+Login Issue,11984,99.92,5.51,50.36,49.66,40.72,Self-service password reset workflow,"High repetition, low complexity, easily automated"
+Payment Problem,11897,99.92,5.52,50.23,49.43,24.15,Automated payment verification workflow,"High volume, repeated patterns, high operational impact"
+Data Sync Issue,11779,99.92,5.5,49.82,50.17,15.2,Automated diagnostics and self-service guide,Repeatable resolution steps suitable for chatbot
+Account Suspension,11814,99.92,5.52,49.59,49.33,4.52,Escalation playbook with automated status check,Needs human review but triage can be automated

@@ -1,0 +1,6 @@
+channel,total_tickets,sla_breach_rate,avg_resolution_days
+Chat,23725,49.88,7.01
+Email,23745,50.07,7.03
+Phone,23948,49.5,6.99
+Social Media,23883,50.02,7.01
+Web Form,24106,49.86,6.99

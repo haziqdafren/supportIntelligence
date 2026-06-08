@@ -1,0 +1,2 @@
+model_name,task,accuracy,precision_macro,recall_macro,f1_macro,note
+TF-IDF + Logistic Regression,Ticket Category Classification,1.0,1.0,1.0,1.0,Perfect accuracy reflects synthetic templated dataset. Validated for routing logic demonstration.

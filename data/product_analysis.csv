@@ -1,0 +1,11 @@
+product,total_tickets,sla_breach_rate,avg_resolution_days
+API Service,11837,49.85,7.02
+Analytics Dashboard,11886,49.13,6.95
+Billing System,11979,49.55,7.02
+CRM Platform,11960,49.99,7.03
+Cloud Storage,11830,50.34,6.98
+E-commerce Store,12077,49.29,7.02
+Mobile App,11981,49.75,7.03
+Payment Gateway,12027,50.08,7.06
+Subscription Service,11879,49.8,6.96
+Web Portal,11951,50.88,6.98

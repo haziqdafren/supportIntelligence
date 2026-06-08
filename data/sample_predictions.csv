@@ -1,0 +1,21 @@
+issue_description,actual_category,predicted_category,correct
+There seems to be a discrepancy in my billing statement for this month.,Payment Problem,Payment Problem,True
+My subscription was cancelled without my request and I need clarification.,Subscription Cancellation,Subscription Cancellation,True
+I found a bug in the latest update affecting report generation.,Data Sync Issue,Data Sync Issue,True
+I found a bug in the latest update affecting report generation.,Payment Problem,Payment Problem,True
+I am unable to access my account after entering the correct credentials.,Subscription Cancellation,Subscription Cancellation,True
+I am experiencing very slow performance while using the dashboard.,Subscription Cancellation,Subscription Cancellation,True
+The system is not syncing data across devices properly.,Refund Request,Refund Request,True
+Two-factor authentication codes are not being delivered to my phone.,Refund Request,Refund Request,True
+The payment was deducted from my bank account but the transaction shows failed.,Bug Report,Bug Report,True
+There seems to be a discrepancy in my billing statement for this month.,Security Concern,Security Concern,True
+I found a bug in the latest update affecting report generation.,Security Concern,Security Concern,True
+The application crashes whenever I try to upload a file.,Refund Request,Refund Request,True
+I found a bug in the latest update affecting report generation.,Login Issue,Login Issue,True
+I am experiencing very slow performance while using the dashboard.,Login Issue,Login Issue,True
+I would like to request a refund for the recent charge.,Account Suspension,Account Suspension,True
+I found a bug in the latest update affecting report generation.,Subscription Cancellation,Subscription Cancellation,True
+I found a bug in the latest update affecting report generation.,Login Issue,Login Issue,True
+I would like to request a refund for the recent charge.,Bug Report,Bug Report,True
+Two-factor authentication codes are not being delivered to my phone.,Subscription Cancellation,Subscription Cancellation,True
+The payment was deducted from my bank account but the transaction shows failed.,Security Concern,Security Concern,True
