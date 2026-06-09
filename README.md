@@ -3,7 +3,7 @@
 An end-to-end data analytics and AI project analyzing 200,000+ customer support tickets
 to identify operational patterns, classify incoming issues, and recommend automation opportunities.
 
-Live dashboard: [your-vercel-url]
+Live dashboard: https://dashboard-zeta-three-76.vercel.app
 
 ---
 
